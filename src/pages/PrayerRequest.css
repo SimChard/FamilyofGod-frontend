@@ -1,0 +1,17 @@
+@media all and (min-width: 480px) {
+    .AddPrayerRequest {
+        padding: 60px 0;
+    }
+    .AddPrayerRequest form {
+        margin: 0 auto;
+        max-width: 320px;
+    }
+    h3 {
+        margin: 0 auto;
+        max-width: 320px;
+    }
+    .requestTable {
+        max-width: 80vw;
+        margin: 0 auto;
+    }
+}
